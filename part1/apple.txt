@@ -1,0 +1,12 @@
+Testing non-odd cases: 
+Testing 100x100 image, feature width 4, feature height 4, maximum diplacement 6... 5.0217 Gflop/s
+Testing 200x200 image, feature width 4, feature height 4, maximum diplacement 6... 5.6777 Gflop/s
+Testing 300x300 image, feature width 4, feature height 4, maximum diplacement 6... 5.6392 Gflop/s
+Testing 400x400 image, feature width 4, feature height 4, maximum diplacement 6... 5.4576 Gflop/s
+Testing 500x500 image, feature width 4, feature height 4, maximum diplacement 6... 5.6006 Gflop/s
+
+Testing odd cases: 
+Testing 200x400 image, feature width 3, feature height 3, maximum diplacement 7... 5.2266 Gflop/s
+Testing 400x200 image, feature width 4, feature height 4, maximum diplacement 7... 5.5267 Gflop/s
+Testing 301x301 image, feature width 4, feature height 4, maximum diplacement 7... 5.7087 Gflop/s
+Testing 401x401 image, feature width 4, feature height 4, maximum diplacement 4... 5.4342 Gflop/s
